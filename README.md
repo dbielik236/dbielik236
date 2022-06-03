@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David Bielik (pronouced 🐝 👅)
+# 👋 Hi, I’m David Bielik (pronouced 🐝 👅)
 
 <!---
 dbielik236/dbielik236 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
