@@ -1,9 +1,9 @@
 # 👋 Hi, I’m David Bielik (pronouced 🐝 👅)
 
-I'm a Junior Web Developer and Data Analyst and I enjoy programming, analyzing data, communicating through visualizations, and building web applications. I have a background in mathematics and a passion for solving difficult problems!
+I'm a Web Developer/Data Analyst/Mathematician and I enjoy programming, analyzing data, communicating through visualizations, problem solving, and building web applications.
 
 ## Learn more about me
-Check out my personal website at www.davidbielik.me or my profile on <a href="https://www.linkedin.com/in/david-bielik-385186256/">Linkedin</a> to learn more about me and my background.
+Check out my profile on <a href="https://www.linkedin.com/in/david-bielik-385186256/">Linkedin</a> to learn more about me and my background.
 
 
 <!---
